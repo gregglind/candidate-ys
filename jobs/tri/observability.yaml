@@ -1,0 +1,7 @@
+Resource:  http://some.where/tri
+Freshness:
+  days: 31
+Volume:
+  minimum: 51
+
+
