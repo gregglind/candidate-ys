@@ -1,6 +1,6 @@
 # Purpose:
 
-YourStake provides data on social and environmental issues to allow investors to decide which companies best align with their values. One of our goals is to gather global toxic air pollution data to tie to corporate entities in a methodologically consistent manner. Toxic air pollution reporting to global Pollution Release Transfer Registries (PRTRs) allows us to standardize toxic air pollution metrics for companies across geographical regions.
+YS provides data on social and environmental issues to allow investors to decide which companies best align with their values. One of our goals is to gather global toxic air pollution data to tie to corporate entities in a methodologically consistent manner. Toxic air pollution reporting to global Pollution Release Transfer Registries (PRTRs) allows us to standardize toxic air pollution metrics for companies across geographical regions.
 
 # Goal:
 
@@ -22,8 +22,6 @@ EU PRTR
 
 Yours,
 
-Patrick Reed
-yourstake.org
-301-332-7272
+PR
 
 

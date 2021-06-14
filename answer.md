@@ -9,6 +9,12 @@ Date:  Sun, Jun 13, 2021
 
 See code in [./jobs/](./jobs/) folder.  
 
+Complications to discuss:
+- data dictionaries
+- csv as an output format (and output structures)
+- clarification of downstream consumer (format)
+- scraping
+
 ## 2. Describe the steps you'd take to make your script robust enough to run unsupervised on a regular basis.
 
 | Need | Example Soution |
@@ -52,22 +58,6 @@ https://www.montecarlodata.com/introducing-the-5-pillars-of-data-observability/)
 - for combined / derived data, a DAG that reflects how it was constructed.  Update and log freshness or breakage for any "source" data.  Warn that dataset might be corrupted.
 
 
-====
-
-
-
-
-Algorithm:
-
-Finding the data:
-URLs are not stable.
-bad selectors
-
-- https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools
-Url is not stable for the reports:
-- https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-plus-data-files-calendar-years-1987-2019?
-
-bad selectors
 
 
 

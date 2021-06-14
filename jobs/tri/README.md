@@ -8,14 +8,10 @@ US EPA
 ```
 
 
-All job folders have the same structure:
+This particular job is a basic / standard node / npm package. 
 
-```
-.
-├── README.md    
-├── artifacts           # created artifacts
-├── code                # generating code
-├── downloads           # temporary downloaded files
-├── logs                # logging for success and failure
-└── observability.yaml  # spec for observability (See question 2/3)
-```
+To RUN:
+
+`npm install`
+`npm run`
+`npm test`
