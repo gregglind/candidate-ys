@@ -23,6 +23,7 @@ async function aggregate() {
 }
 
 async function ouptut (answer, location) {
+    
 }
 
 // 

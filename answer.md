@@ -51,11 +51,14 @@ https://www.montecarlodata.com/introducing-the-5-pillars-of-data-observability/)
 - existence.  HEAD dataset url.  Alarm if not there.
 - accessible at a url: "user with right permissions", check resource url.
 
-4. Schema (Shape and Sence)
+4. Schema (Shape and Sense)
 - fields are the right shape using jsonschema for that file.
 
 5. Lineage (All subparts are good)
 - for combined / derived data, a DAG that reflects how it was constructed.  Update and log freshness or breakage for any "source" data.  Warn that dataset might be corrupted.
+
+
+
 
 
 
